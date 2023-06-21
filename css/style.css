@@ -128,7 +128,7 @@ a {
 /* !hero image */
 .heroImg {
     height: 220px;
-    background: url("/images/hero.png") no-repeat center;
+    background: url("../images/hero.png") no-repeat center;
 }
 
 /* !promo section */
@@ -180,7 +180,7 @@ a {
 }
 
 .deliveryImg {
-    background: url("./images/Delivery.png") no-repeat center;
+    background: url("../images/Delivery.png") no-repeat center;
     background-size: contain;
     height: 200px;
 }
@@ -219,7 +219,7 @@ a {
 .cartImg {
     width: 100%;
     background: #000;
-    background: url("./images/cart.png") no-repeat right;
+    background: url("../images/cart.png") no-repeat right;
     background-size: contain;
     height: 200px;
 }
@@ -236,7 +236,7 @@ a {
     margin-top: 1.5rem;
     width: 100%;
     background: #000;
-    background: url("./images/data.png") no-repeat left;
+    background: url("../images/data.png") no-repeat left;
     background-size: contain;
     height: 200px;
 }
@@ -296,7 +296,7 @@ a {
     margin-top: 1.5rem;
     width: 100%;
     background: #000;
-    background: url("./images/ehyaversarry.png") no-repeat center;
+    background: url("../images/ehyaversarry.png") no-repeat center;
     background-size: contain;
     height: 200px;
 }
@@ -446,7 +446,7 @@ a {
 .whyUsImg {
     width: 100%;
     background: #000;
-    background: url("./images/financer.png") no-repeat center;
+    background: url("../images/financer.png") no-repeat center;
     background-size: contain;
     height: 300px;
     margin-bottom: 2rem;
@@ -671,7 +671,7 @@ a {
 .ctaImg {
     width: 100%;
     background: #000;
-    background: url("./images/cta.png") no-repeat center;
+    background: url("../images/cta.png") no-repeat center;
     background-size: contain;
     height: 220px;
 }
@@ -829,7 +829,7 @@ a {
     /* !hero image */
     .heroImg {
         height: 250px;
-        background: url("/images/hero.png") no-repeat center;
+        background: url("../images/hero.png") no-repeat center;
         background-size: contain;
     }
 
@@ -888,7 +888,7 @@ a {
     }
 
     .deliveryImg {
-        background: url("./images/Delivery.png") no-repeat center;
+        background: url("../images/Delivery.png") no-repeat center;
         background-size: contain;
         height: 200px;
     }
@@ -931,7 +931,7 @@ a {
     .cartImg {
         width: 100%;
         background: #000;
-        background: url("./images/cart.png") no-repeat right;
+        background: url("../images/cart.png") no-repeat right;
         background-size: contain;
         height: 200px;
     }
@@ -952,7 +952,7 @@ a {
         margin-top: 1.5rem;
         width: 100%;
         background: #000;
-        background: url("./images/data.png") no-repeat left;
+        background: url("../images/data.png") no-repeat left;
         background-size: contain;
         height: 200px;
     }
@@ -1013,7 +1013,7 @@ a {
         margin-top: 1.5rem;
         width: 100%;
         background: #000;
-        background: url("./images/ehyaversarry.png") no-repeat center;
+        background: url("../images/ehyaversarry.png") no-repeat center;
         background-size: contain;
         height: 200px;
     }
@@ -1185,7 +1185,7 @@ a {
     .whyUsImg {
         width: 100%;
         background: #000;
-        background: url("./images/financer.png") no-repeat center;
+        background: url("../images/financer.png") no-repeat center;
         background-size: contain;
         height: 300px;
         margin-bottom: 2rem;
@@ -1440,7 +1440,7 @@ a {
     .ctaImg {
         width: 100%;
         background: #000;
-        background: url("./images/cta.png") no-repeat center;
+        background: url("../images/cta.png") no-repeat center;
         background-size: contain;
         height: 250px;
     }
@@ -1602,7 +1602,7 @@ a {
     /* !hero image */
     .heroImg {
         height: 300px;
-        background: url("/images/hero.png") no-repeat;
+        background: url("../images/hero.png") no-repeat;
         background-size: contain;
         width: 40%;
     }
@@ -1661,7 +1661,7 @@ a {
     }
 
     .deliveryImg {
-        background: url("./images/Delivery.png") no-repeat center;
+        background: url("../images/Delivery.png") no-repeat center;
         background-size: contain;
         height: 200px;
     }
@@ -1704,7 +1704,7 @@ a {
     .cartImg {
         width: 100%;
         background: #000;
-        background: url("./images/cart.png") no-repeat right;
+        background: url("../images/cart.png") no-repeat right;
         background-size: contain;
         height: 200px;
     }
@@ -1725,7 +1725,7 @@ a {
         margin-top: 1.5rem;
         width: 100%;
         background: #000;
-        background: url("./images/data.png") no-repeat left;
+        background: url("../images/data.png") no-repeat left;
         background-size: contain;
         height: 200px;
     }
@@ -1793,7 +1793,7 @@ a {
         margin-top: 1.5rem;
         width: 100%;
         background: #000;
-        background: url("./images/ehyaversarry.png") no-repeat center;
+        background: url("../images/ehyaversarry.png") no-repeat center;
         background-size: contain;
         height: 200px;
     }
@@ -1998,7 +1998,7 @@ a {
 
         width: 100%;
         background: #000;
-        background: url("./images/financer.png") no-repeat center;
+        background: url("../images/financer.png") no-repeat center;
         background-size: contain;
         height: 350px;
         margin-bottom: 2rem;
@@ -2263,7 +2263,7 @@ a {
     .ctaImg {
         width: 100%;
         background: #000;
-        background: url("./images/cta.png") no-repeat center;
+        background: url("../images/cta.png") no-repeat center;
         background-size: contain;
         height: 300px;
     }
