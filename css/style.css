@@ -2285,6 +2285,7 @@ a {
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
+
 @media only screen and (min-width: 1200px) {
     /* !Hero */
     .hero {
@@ -2354,7 +2355,7 @@ a {
     .search {
         border-radius: 12px;
         display: flex;
-        justify-content: center;
+        justify-content: space-between;
         align-items: center;
         padding: 1rem;
         height: 4.5rem;
@@ -2375,7 +2376,7 @@ a {
         border: none;
         border-radius: 12px;
         background: var(--blue-green);
-        padding: 1.3rem 0;
+        padding: 1.3rem 1.5rem;
     }
 
     /* !hero image */
